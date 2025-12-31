@@ -1,5 +1,5 @@
 # mmrasel
-## Hi there, I'm MM Rasel 👋  
+## Hi, I'm MM Rasel 👋  
 I am a Digital Strategist and WordPress Specialist focusing on high-end web solutions. 
 - 🔭 I’m currently working on High-Performance Law Firm Websites
 - 🌱 I’m currently learning Advanced SEO &amp; Conversion Strategy
